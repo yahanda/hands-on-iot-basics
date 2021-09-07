@@ -1,4 +1,4 @@
-# IoT ハンズオン：Azure IoT 基礎 ～ Power BI 可視化 実践編
+# IoTハンズオン：Azure IoT基礎～Power BI可視化実践編
 
 ## 概要
 ダミーの設備情報をもとに、工程ごとのサイクルタイムを可視化する一連を体験いただきます
@@ -14,7 +14,7 @@
 - [サンプルコード](https://github.com/yahanda/hands-on-iot-basics/blob/main/SimulatedDevice.py)のダウンロード
 
 ## 資料
-解説および手順をこちらの[PDF資料](https://github.com/yahanda/hands-on-iot-basics/raw/main/Hands-On-IoT-basics.pdf)にまとめています
+こちらの[PDF資料](https://github.com/yahanda/hands-on-iot-basics/raw/main/Hands-On-IoT-basics.pdf)で、Azure各サービスの概説およびハンズオン手順をまとめています
 
 ## 所要目安
 約3時間

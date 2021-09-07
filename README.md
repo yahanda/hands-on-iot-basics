@@ -14,10 +14,16 @@
 - [サンプルコード](https://github.com/yahanda/hands-on-iot-basics/blob/main/SimulatedDevice.py)のダウンロード
 
 ## 資料
-こちらの[PDF資料](https://github.com/yahanda/hands-on-iot-basics/raw/main/Hands-On-IoT-basics.pdf)で、Azure各サービスの概説およびハンズオン手順をまとめています
+こちらの[PDF資料](https://github.com/yahanda/hands-on-iot-basics/raw/main/Hands-On-IoT-basics.pdf)に、Azure各サービスの概説およびハンズオン手順をまとめています
 
 ## 所要目安
 約3時間
 
 ## ハンズオン構成 
 ![arch](https://raw.githubusercontent.com/wiki/yahanda/hands-on-iot-basics/hands-on-arch.jpg)
+
+## Power BI レポートのサンプル
+![report-sample](https://raw.githubusercontent.com/wiki/yahanda/hands-on-iot-basics/report-sample.jpg)
+
+## Teams アラートのサンプル
+![alert-sample](https://raw.githubusercontent.com/wiki/yahanda/hands-on-iot-basics/alert-sample.jpg)
